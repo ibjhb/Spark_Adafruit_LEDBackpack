@@ -32,7 +32,7 @@ POSSIBILITY OF SUCH DAMAGE.
 */
 
 #include "Adafruit_GFX.h"
-#include "glcdfont.h"
+//#include "glcdfont.h"
 #define pgm_read_byte(addr) (*(const unsigned char *)(addr))
 
 Adafruit_GFX::Adafruit_GFX(int16_t w, int16_t h):
